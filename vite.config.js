@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [],
   root: 'src-modern',
   publicDir: '../public-assets',
-  base: './',
+  base: '/metis/',
 
   build: {
     outDir: '../dist-modern',
